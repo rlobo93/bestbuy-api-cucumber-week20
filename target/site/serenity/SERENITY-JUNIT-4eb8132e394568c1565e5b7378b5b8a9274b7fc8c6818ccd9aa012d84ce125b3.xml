@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="as a user i should be able create, read, update and delete store, products, services and categories details CRUD operation" skipped="0" tests="1" time="4.87" timestamp="2022-06-20T20:48:00.555+01:00[Europe/London]"><testcase name="User can run successful CRUD operation on product details"/></testsuite>

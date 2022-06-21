@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="as a user i should be able create, read, update and delete store, products, services and categories details CRUD operation" skipped="0" tests="1" time="3.59" timestamp="2022-06-21T21:29:46.843+01:00[Europe/London]"><testcase name="User can run successful CRUD operation on stores details"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.bestbuy.cucumber.steps.StoreStepDef.thisWillCreateANewStore(StoreStepDef.java:39)&#13;
+✽.When This will create a new Store(src/test/java/resources/feature/BestBuy.feature:26)&#13;
+</system-err></testcase></testsuite>
